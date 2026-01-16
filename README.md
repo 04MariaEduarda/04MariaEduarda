@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou Maria Eduarda! 👋
 
-<!--
-**04MariaEduarda/04MariaEduarda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Ciência da Computação** na UNICID, focada em transicionar da área administrativa para o **Desenvolvimento de Software**. Atualmente, dedico meus estudos ao ecossistema Back-End e Banco de Dados.
 
-Here are some ideas to get you started:
+### 🛠️ No que estou trabalhando:
+- 🐍 Aprofundando conhecimentos em **Python** (Automação e lógica).
+- 🐘 Explorando o desenvolvimento web com **PHP**.
+- 📊 Aprendendo modelagem de dados e SQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Meus Objetivos para 2026:
+- Conquistar minha primeira vaga de estágio em tecnologia.
+- Contribuir em projetos Open Source.
+- Finalizar a formação Back-End da Alura.
+
+### 💻 Tecnologias e Ferramentas:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### 📫 Como me encontrar:
+- **LinkedIn:** https://www.linkedin.com/in/mariaeduardasilva0418/
+- **E-mail:** m.eduardasilvaj04@gmail.com
