@@ -2,7 +2,7 @@
 
 Estudante de **Ciência da Computação** na UNICID, focada em transicionar da área administrativa para o **Desenvolvimento de Software**. Atualmente, dedico meus estudos a área de Back-End e Banco de Dados.
 
-### 🛠️ Estou trabalhando:
+### 🛠️ No que estou trabalhando:
 - 🐍 Aprofundando conhecimentos em **Python** (Automação e lógica).
 - 🐘 Explorando o desenvolvimento web com **PHP**.
 - 📊 Aprendendo modelagem de dados e SQL.
