@@ -1,6 +1,6 @@
 # Olá, eu sou Maria Eduarda! 👋
 
-Estudante de **Ciência da Computação** na UNICID, focada em transicionar da área administrativa para o **Desenvolvimento de Software**. Atualmente, dedico meus estudos ao ecossistema Back-End e Banco de Dados.
+Estudante de **Ciência da Computação** na UNICID, focada em transicionar da área administrativa para o **Desenvolvimento de Software**. Atualmente, dedico meus estudos a área de Back-End e Banco de Dados.
 
 ### 🛠️ No que estou trabalhando:
 - 🐍 Aprofundando conhecimentos em **Python** (Automação e lógica).
