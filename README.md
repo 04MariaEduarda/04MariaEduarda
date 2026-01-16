@@ -10,7 +10,6 @@ Estudante de **Ciência da Computação** na UNICID, focada em transicionar da �
 ### 🚀 Meus Objetivos para 2026:
 - Conquistar minha primeira vaga de estágio em tecnologia.
 - Contribuir em projetos Open Source.
-- Finalizar a formação Back-End da Alura.
 
 ### 💻 Tecnologias e Ferramentas:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
